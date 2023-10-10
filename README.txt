@@ -22,8 +22,3 @@ in /src/objects
 /Plane.json                 -> plane class for rendering planes with predefined values
 /CustomObject.js            -> custom class for rendering custom objects with given verts/norms/uvs/triangles
 
-
-
-This is just a template to get you started in making a game using Refinery. Feel free to edit all of this code and change whatever you'd like. And as always have fun. 
-
-Contact me at zachthm@gmail.com if you have any questions
