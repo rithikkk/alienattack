@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.game-over-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.game-over-text {
+    font-size: 4rem;
+    color: #00ff00;
+    text-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00, 0 0 40px #00ff00;
+}
+
+
+.stats {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #00ff00;
+  font-size: 1.2rem;
+  font-family: "Courier New", Courier, monospace;
+  z-index: 100;
+}
